@@ -1,0 +1,113 @@
+
+body{
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+header {
+    background-color: rgb(114, 153, 237);
+    margin: 2px;
+    height: 200px;
+    border-radius: 15px;
+    border: 1px solid black;
+    
+
+}
+
+.titulos2{
+    font-size:large;
+    text-align: left;
+    margin-bottom: 0;
+    
+}
+.subtitulo {
+    margin: 0;
+}
+.subtitulo1 {
+    font-size: medium;
+    text-align: left;
+    margin-bottom: 0;
+}
+
+.texto1 {
+    font-size: small;
+    text-align: left;
+    margin-top: 0;
+    margin-bottom: 25px;
+
+}
+.imagencv {
+    width: 180px;
+    height: 180px;
+    margin: 60px;
+    border-radius: 100px;
+    margin-top: 10px;
+
+}
+
+.name {
+    margin-top: 50px;
+}
+
+.experiencia {
+    margin: 2px;
+
+}
+
+.costado {
+    background-color: rgb(170, 194, 244);
+    margin: 2px;
+    height: 100vh;
+    border-radius: 15px;
+    border: 1px solid black;
+    
+}
+
+.Perfil {
+    margin: 10px;
+    font-size: small;
+    text-align: left;
+}
+
+.Contacto {
+    margin: 10px;
+    font-size: small;
+    text-align: left;
+
+}
+
+.Idioma {
+
+    margin: 10px;
+    font-size: small;
+    text-align: left;
+
+}
+
+.Hobbies{
+
+    margin: 10px;
+    font-size: small;
+    text-align: left;
+    height: 100vh;
+
+
+}
+
+.perf{
+    padding: 10px;
+}
+.contac{
+    padding: 10px;
+    margin-top: 30px;
+}
+.idio{
+    padding: 10px;
+    margin-top: 30px;
+
+}
+
+.hoob{
+    padding: 10px;
+    margin-top: 30px;
+}
+
